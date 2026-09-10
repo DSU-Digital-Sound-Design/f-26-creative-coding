@@ -1,0 +1,22 @@
+{{- /* Strudel's REPL as a web component, <strudel-editor>, used by the
+       `strudel` shortcode. Pinned so an upstream release can't break an
+       etude written months ago — bump it deliberately, between terms.
+
+       Loaded from the CDN rather than vendored into assets/: Strudel is
+       AGPL-3.0, and linking keeps this site's code clearly separate from it.
+
+       Our own CSS and JS go through the asset pipeline for the fingerprint,
+       the same way the theme loads console.css and console.js. Un-fingerprinted
+       files in static/ get cached by student browsers and stay stale for the
+       rest of the term when a mid-semester fix lands. */ -}}
+<script src="https://unpkg.com/@strudel/repl@1.3.0"></script>
+
+{{ with resources.Get "css/strudel-etude.css" }}
+  {{ $css := . | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
+{{ end }}
+
+{{ with resources.Get "js/strudel-etude.js" }}
+  {{ $js := . | js.Build (dict "minify" true "target" "es2017") | fingerprint }}
+  <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" defer></script>
+{{ end }}

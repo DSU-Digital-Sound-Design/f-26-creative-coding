@@ -1,0 +1,92 @@
+baseURL = "https://dsu-digital-sound-design.github.io/f-26-creative-coding/"
+languageCode = "en-us"
+title = "Creative Coding"
+enableRobotsTXT = true
+
+# Console only. This class runs off the interactive etude pages rather than
+# slide decks, so reveal-hugo is not installed and no page sets `outputs`.
+theme = ["t-console-theme"]
+
+[params]
+  accent = "#ffc85c"
+  description = "Weekly etudes in live-coded music. Write a pattern, hear it immediately, hand it to the person next to you."
+
+  [params.course]
+    code = "Creative Coding"
+    title = "Live coding music in the browser"
+    term = "Fall 2026"
+    meeting = "Mondays"
+    instructor = "Tate Carson"
+    final = "TBD"
+
+  [params.schedule]
+    # Monday of week 1. Class meets Mondays only; week 3 is 9/14.
+    # Note this differs from the other three course sites, which start 8/24.
+    start = "2026-08-31"
+    filterPlaceholder = 'filter — try "strudel" or "due"'
+
+    # Overrides the theme's default tag vocabulary (must restate all tags).
+    # `slides` is gone; this class has etudes instead.
+    [[params.schedule.tags]]
+      id = "etude"
+      label = "Etudes"
+      color = "#6ec1ff"
+    [[params.schedule.tags]]
+      id = "project"
+      label = "Projects"
+      color = "#b6ff5c"
+    [[params.schedule.tags]]
+      id = "due"
+      label = "Due"
+      color = "#ff7a5c"
+    [[params.schedule.tags]]
+      id = "lab"
+      label = "Labs"
+      color = "#ffc85c"
+    [[params.schedule.tags]]
+      id = "off"
+      label = "No class"
+      color = "#7d8a7a"
+      skip = true
+
+  [[params.facts]]
+    key = "Meets"
+    value = "Mondays"
+  [[params.facts]]
+    key = "Room"
+    value = "TBD"
+  [[params.facts]]
+    key = "Instructor"
+    value = "Tate Carson"
+  [[params.facts]]
+    key = "Tools"
+    value = "Strudel, a browser, headphones"
+  [[params.facts]]
+    key = "Cost"
+    value = "No software to buy or install"
+
+[[menus.main]]
+  name = "schedule"
+  pageRef = "/schedule"
+  weight = 10
+[[menus.main]]
+  name = "etudes"
+  pageRef = "/etudes"
+  weight = 20
+[[menus.main]]
+  name = "projects"
+  pageRef = "/projects"
+  weight = 30
+[[menus.main]]
+  name = "syllabus"
+  pageRef = "/syllabus"
+  weight = 40
+
+[markup.goldmark.renderer]
+  # Etude pages embed the Strudel REPL web component.
+  unsafe = true
+
+[markup.tableOfContents]
+  ordered = false
+  startLevel = 1
+  endLevel = 2

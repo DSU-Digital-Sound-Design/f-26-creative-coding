@@ -1,0 +1,3 @@
+[submodule "themes/t-console-theme"]
+	path = themes/t-console-theme
+	url = https://github.com/DSU-Digital-Sound-Design/t-console-theme

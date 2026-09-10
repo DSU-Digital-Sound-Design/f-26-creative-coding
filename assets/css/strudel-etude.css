@@ -1,0 +1,131 @@
+/* Styling for the `strudel` shortcode. Follows the theme's .drill panel
+   idiom so an etude block reads as part of the page rather than a bolted-on
+   widget. All colors come from console.css tokens; --a is the site accent,
+   injected into :root by the theme's head partial. */
+
+.etude-repl {
+  border: 1px solid var(--rule-panel);
+  border-left: 2px solid var(--a);
+  background: var(--panel);
+  padding: 14px 16px 16px;
+  margin: 22px 0;
+}
+
+.etude-repl__label {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--a);
+  margin: 0 0 10px;
+}
+
+/* The static view, shown until the reader asks for an editor. Its own
+   scroll container, so a long one-line pattern never widens the page. */
+.etude-repl__static {
+  margin: 0;
+  padding: 0;
+  border: none;
+  background: none;
+  overflow-x: auto;
+  font-family: var(--mono);
+  font-size: 12.5px;
+  line-height: 1.7;
+  color: var(--fg-bright);
+  white-space: pre;
+}
+.etude-repl__static code {
+  border: none;
+  padding: 0;
+  background: none;
+  font-size: inherit;
+  color: inherit;
+}
+
+.etude-repl__go {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--a);
+  background: transparent;
+  border: 1px solid var(--rule-chip);
+  padding: 5px 12px;
+  margin-top: 14px;
+  cursor: pointer;
+}
+.etude-repl__go:hover:not(:disabled) {
+  border-color: var(--a);
+}
+.etude-repl__go:focus-visible {
+  outline: 2px solid var(--a);
+  outline-offset: 2px;
+}
+.etude-repl__go:disabled {
+  color: var(--fg-mute);
+  cursor: default;
+}
+
+.etude-repl__fallback {
+  font-size: 12px;
+  color: var(--fg-mute);
+  margin: 10px 0 0;
+}
+
+/* Once upgraded, the wrapper holds the REPL.
+
+   <strudel-editor> never renders anything itself — it inserts a sibling div
+   and mounts CodeMirror in that. So the element gets no box of its own (a
+   min-height here buys a phantom empty gap), and .etude-repl__mount, applied
+   to that sibling by strudel-etude.js, is the thing to style. */
+.etude-repl strudel-editor {
+  display: none;
+}
+
+.etude-repl__mount {
+  margin: 0;
+}
+.etude-repl__mount .cm-editor {
+  border: 1px solid var(--rule-panel);
+}
+
+.etude-repl__controls {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.etude-repl__btn {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--fg);
+  background: transparent;
+  border: 1px solid var(--rule-chip);
+  padding: 5px 14px;
+  cursor: pointer;
+}
+.etude-repl__btn:hover {
+  border-color: var(--a);
+  color: var(--a);
+}
+.etude-repl__btn:focus-visible {
+  outline: 2px solid var(--a);
+  outline-offset: 2px;
+}
+
+/* The accent marks which etude is sounding, so a room full of laptops can
+   see at a glance who is playing. */
+.etude-repl.is-playing {
+  border-left-color: var(--a);
+  box-shadow: inset 2px 0 0 var(--a);
+}
+
+.etude-repl__hint {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--fg-mute);
+  margin-left: 4px;
+}
