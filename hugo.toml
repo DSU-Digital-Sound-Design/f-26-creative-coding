@@ -9,21 +9,20 @@ theme = ["t-console-theme"]
 
 [params]
   accent = "#ffc85c"
-  description = "Weekly etudes in live-coded music. Write a pattern, hear it immediately, hand it to the person next to you."
+  description = "Explore music, sound, and visuals with code through weekly experiments, creative studies, and an ensemble or independent project."
 
   [params.course]
-    code = "Creative Coding"
-    title = "Live coding music in the browser"
+    code = "CSC 274"
+    title = "Creative Coding"
     term = "Fall 2026"
-    meeting = "Mondays"
+    meeting = "Mondays, 1:00–1:50 p.m."
     instructor = "Tate Carson"
-    final = "TBD"
+    final = "December 14, 1:00–3:00 p.m. Check D2L for arrangements."
 
   [params.schedule]
-    # Monday of week 1. Class meets Mondays only; week 3 is 9/14.
-    # Note this differs from the other three course sites, which start 8/24.
-    start = "2026-08-31"
-    filterPlaceholder = 'filter — try "strudel" or "due"'
+    # Semester week 1 begins August 24; the first meeting was August 31.
+    start = "2026-08-24"
+    filterPlaceholder = 'Filter by keyword, such as "etude" or "due"'
 
     # Overrides the theme's default tag vocabulary (must restate all tags).
     # `slides` is gone; this class has etudes instead.
@@ -51,19 +50,19 @@ theme = ["t-console-theme"]
 
   [[params.facts]]
     key = "Meets"
-    value = "Mondays"
+    value = "Mondays, 1:00–1:50 p.m."
   [[params.facts]]
     key = "Room"
-    value = "TBD"
+    value = "See D2L"
   [[params.facts]]
     key = "Instructor"
     value = "Tate Carson"
   [[params.facts]]
     key = "Tools"
-    value = "Strudel, a browser, headphones"
+    value = "Laptop, current browser, wired headphones"
   [[params.facts]]
     key = "Cost"
-    value = "No software to buy or install"
+    value = "No textbook required"
 
 [[menus.main]]
   name = "schedule"
@@ -81,6 +80,11 @@ theme = ["t-console-theme"]
   name = "syllabus"
   pageRef = "/syllabus"
   weight = 40
+
+[[menus.main]]
+  name = "tools"
+  pageRef = "/resources"
+  weight = 50
 
 [markup.goldmark.renderer]
   # Etude pages embed the Strudel REPL web component.
