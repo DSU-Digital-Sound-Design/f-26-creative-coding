@@ -38,7 +38,7 @@ semester calendar beginning August 24; our first meeting was August 31.
 
 ## 9/21
 
-- [etude] Tentative: [First Notes](https://strudel.cc/workshop/first-notes/), the next Strudel workshop. Review the tutorial together and practice through more interactive exercises.
+- [etude] [First notes](/etudes/week-04/). Four studies in pitch and scales, a game in pairs, and a three-part pattern.
 - [lab] Develop one clear idea for [Creative Study 1](/projects/project-1/), test it, and discuss revisions.
 ### homework
 - Demonstrate and submit Creative Study 1 by Friday.

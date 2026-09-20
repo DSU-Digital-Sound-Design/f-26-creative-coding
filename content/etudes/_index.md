@@ -18,6 +18,7 @@ Save useful variations, screenshots or recordings, and notes about what changed.
 You will select this evidence for the [practice checkpoints](/projects/).
 The studies also give you starting points for the two creative studies.
 
-The tentative next session follows Strudel's
-[First Notes](https://strudel.cc/workshop/first-notes/) workshop with more
-interactive exercises in class. Check the [schedule](/schedule/) for updates.
+Week 5 follows Strudel's
+[First Notes](https://strudel.cc/workshop/first-notes/) workshop and uses the
+same notation to specify pitches. Check the [schedule](/schedule/) for
+updates.
