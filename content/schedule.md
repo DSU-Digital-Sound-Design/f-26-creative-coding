@@ -46,9 +46,10 @@ semester calendar beginning August 24; our first meeting was August 31.
 
 ## 9/28
 
-- [lab] Audiovisual relationships. Explore mappings among rhythm, gesture, color, texture, form, and sound.
+- [lab] Work through the full Strudel [First Effects](https://strudel.cc/workshop/first-effects/) tutorial together during the first half of class.
+- [etude] [First effects](/etudes/week-05/). Spend the second half on two short studies and a listening exchange. Choose a few effects to explore; the studies do not repeat every tutorial technique.
 ### homework
-- Begin Creative Study 2.
+- Save your effects experiments and choose a direction for [Creative Study 2](/projects/project-2/): live control, audiovisual relationships, interaction, or ensemble coordination.
 
 ## 10/5
 
