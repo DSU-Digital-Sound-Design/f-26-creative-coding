@@ -1,0 +1,10 @@
+{{- /* Usage: {{< hydra label="Study 1" >}}osc(10).out(){{< /hydra >}} */ -}}
+{{- $code := trim .Inner "\n\r\t " -}}
+{{- if not $code }}{{ errorf "hydra: empty sketch: %s" .Position }}{{ end -}}
+{{- $runner := resources.Get "hydra/runner.html" | resources.ExecuteAsTemplate "hydra/runner.html" . | fingerprint -}}
+<div class="hydra-repl" data-code="{{ $code }}" data-runner="{{ $runner.RelPermalink }}">
+  {{ with .Get "label" }}<p class="hydra-repl__label">{{ . }}</p>{{ end }}
+  <pre class="hydra-repl__static"><code>{{ $code }}</code></pre>
+  <button class="hydra-repl__load" type="button" hidden>load editor</button>
+  <p class="hydra-repl__fallback">Copy this sketch into <a href="https://hydra.ojack.xyz/">Hydra</a> to run it.</p>
+</div>

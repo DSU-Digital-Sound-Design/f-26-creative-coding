@@ -2,7 +2,11 @@
 title: "Etudes"
 ---
 
-Each week's etudes are short studies in writing musical patterns. To run an
+Each week's etudes are short studies in sound, visuals, and live changes.
+
+## Strudel studies
+
+To run an
 example, click **load editor**, then **play**. Click **stop** to stop it.
 You can also press **Ctrl+Enter** to play and **Ctrl+.** to stop.
 
@@ -11,6 +15,12 @@ again to hear your changes.
 
 Only one etude plays at a time. Loading a new editor stops whichever one was
 running.
+
+## Hydra studies
+
+The [First visuals études](/etudes/week-06/) use the external Hydra editor.
+Copy an example into the editor and click **run all code** or press
+**Ctrl+Shift+Enter**. Save both the resulting URL and your code.
 
 ## How these studies fit the course
 

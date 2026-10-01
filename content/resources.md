@@ -15,6 +15,8 @@ We are starting with Strudel. Other tools may suit later projects; choose them a
 ## Visuals
 
 - [Hydra](https://hydra.ojack.xyz/), browser-based visual and video synthesis
+- [Hydra Getting Started](https://hydra.ojack.xyz/docs/docs/learning/getting-started/), our October 5 tutorial
+- [Hydra function reference](https://hydra.ojack.xyz/api/), examples and parameter descriptions
 - [Gibber](https://gibber.cc/), combined sound and visual coding
 
 ## Examples

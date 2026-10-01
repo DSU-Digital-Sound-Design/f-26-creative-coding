@@ -86,7 +86,6 @@ the saved version.
 
 Save your favorite version and a short note about what you changed after
 listening. These are practice experiments, not a separate graded submission.
-You can develop one into [Creative Study 2](/projects/project-2/), which adds
-live control, audiovisual relationships, interaction, or ensemble coordination.
-Effects alone are a starting point; decide what new kind of control or
-relationship you want to explore next. Visuals are one option.
+Keep these sound experiments for later projects. [Creative Study 2](/projects/project-2/)
+will focus on Hydra visuals after our October 5 introduction. Use the same
+approach: change a parameter, compare versions, and revise after feedback.

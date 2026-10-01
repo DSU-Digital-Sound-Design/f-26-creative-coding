@@ -49,19 +49,22 @@ semester calendar beginning August 24; our first meeting was August 31.
 - [lab] Work through the full Strudel [First Effects](https://strudel.cc/workshop/first-effects/) tutorial together during the first half of class.
 - [etude] [First effects](/etudes/week-05/). Spend the second half on two short studies and a listening exchange. Choose a few effects to explore; the studies do not repeat every tutorial technique.
 ### homework
-- Save your effects experiments and choose a direction for [Creative Study 2](/projects/project-2/): live control, audiovisual relationships, interaction, or ensemble coordination.
+- Save your effects experiments for later projects. We will introduce Hydra on October 5 for [Creative Study 2](/projects/project-2/), a short visual study.
 
 ## 10/5
 
-- [lab] Ensemble systems. Test roles, listening, cues, transitions, shared tempo, and simple networked or coordinated strategies.
+- [lab] First visuals in Hydra. Spend 20 minutes on the [Getting Started tutorial](https://hydra.ojack.xyz/docs/docs/learning/getting-started/), focusing on sources, transformations, saving, and one blend.
+- [etude] [First visuals](/etudes/week-06/). Two 10-minute studies, a 5-minute visual exchange, and 5 minutes to save work and plan the independent week.
+- Develop a visual idea for [Creative Study 2](/projects/project-2/) and practice moving between Hydra states by editing and running the code.
 ### homework
-- Run an ensemble systems test and revise Study 2.
+- Develop a rough 60–90 second Hydra visual study with two or three states using the techniques practiced in class. Save the code and choose someone to give feedback before the deadline.
 
 ## 10/12
 
-- [off] Midterm critique. No Monday meeting because of Native American Day. Hold the critique or research conferences at an arranged time if needed.
+- [off] No Monday meeting because of Native American Day. Independent development for Creative Study 2; the in-class critique is October 19.
 ### homework
-- Submit Creative Study 2 by Friday.
+- [etude] [Independent Hydra study](/etudes/week-06/#independent-study-for-the-october-12-week) — about 45 minutes during the week: compare three parameter values, rehearse your visual sequence, and get feedback. Optional further exploration uses the Hydra function reference. No separate submission or work session on the holiday.
+- Finish Creative Study 2 and submit its code, capture, reflection, and credits by Friday.
 - [due] [Creative Study 2](/projects/project-2/) due 10/16 at 11:59 pm Central.
 
 ## 10/19
@@ -73,7 +76,8 @@ semester calendar beginning August 24; our first meeting was August 31.
 
 ## 10/26
 
-- [lab] From experiment to proposal. Turn promising experiments into a focused question, realistic scope, and repeatable system.
+- [etude] [Sound and image together](/etudes/week-09/). Combine a saved Strudel pattern with Hydra states using manual cues, test a relationship, and revise it.
+- [lab] From experiment to proposal. Use the last 10 minutes to turn a promising experiment into a focused question and realistic project scope.
 ### homework
 - Submit the Final Project Proposal by Friday.
 - [due] [Final Project Proposal](/projects/proposal/) due 10/30 at 11:59 pm Central.

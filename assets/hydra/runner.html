@@ -1,0 +1,10 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hydra preview</title>
+<style>html,body{margin:0;background:#000;overflow:hidden}canvas{display:block;width:100vw;height:100vh}</style>
+<canvas aria-label="Hydra visual output"></canvas>
+{{ $runtime := resources.Get "js/hydra-runtime.js" | js.Build (dict "minify" true "target" "es2017") | fingerprint }}
+<script src="{{ $runtime.RelPermalink }}"></script>
+</html>

@@ -16,6 +16,15 @@
   <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
 {{ end }}
 
+{{ if .HasShortcode "hydra" }}
+  {{ with resources.Get "css/hydra-etude.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}">
+  {{ end }}
+  {{ with resources.Get "js/hydra-etude.js" | js.Build (dict "minify" true "target" "es2017") | fingerprint }}
+    <script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" defer></script>
+  {{ end }}
+{{ end }}
+
 {{ with resources.Get "js/strudel-etude.js" }}
   {{ $js := . | js.Build (dict "minify" true "target" "es2017") | fingerprint }}
   <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" defer></script>
