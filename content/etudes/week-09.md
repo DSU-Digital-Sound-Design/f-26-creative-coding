@@ -1,84 +1,124 @@
 ---
-title: "Week 10: Sound and image together"
-summary: "Combine saved Strudel and Hydra studies through deliberate cues, then use the result to shape a project proposal."
+title: "Week 10: Project experiments and proposal workshop"
+summary: "Test one uncertainty in your chosen direction, get feedback, and draft a manageable final-project proposal."
 weight: 10
 ---
 
-On **October 26**, bring a working Strudel sound pattern and your Hydra visual
-study. We will combine skills from the earlier lessons and use the experiment
-to help shape the [Final Project Proposal](/projects/proposal/), due October 30.
-These are practice activities, not a new graded submission.
+On **October 26**, use class to develop your [Final Project Proposal](/projects/proposal/),
+due **October 30 at 11:59 p.m. Central**. Build on the October 19 sharing and
+conversation about future directions.
 
-## 1. Choose a relationship
+Bring your saved studies and other experiments, one possible project direction,
+and two artistic or technical references you might draw on. A reference can be
+a work, performance, tutorial, or documented technique. Be ready to explain
+what you want to learn from it.
+
+The workshop takes 50 minutes. Its notes and experiments feed the existing
+proposal; there is no additional graded submission.
+
+## 1. Choose a direction and a question
 
 *5 minutes*
 
-Choose one idea to test:
+Choose a possible ensemble contribution or independent project. Your work can
+combine code and creativity in any medium, including sound, visuals, games,
+physical objects, Arduino or sensor systems, DMX lighting, and installations.
+See the [proposal options and inspiration resources](/projects/proposal/#what-can-you-propose)
+for possible directions.
 
-- **Follow:** increase visual movement or density when the music becomes busier.
-- **Mark:** change visual state at a phrase boundary or the entrance of a layer.
-- **Contrast:** keep the image calm while the sound becomes active, or reverse it.
+Write two sentences:
 
-Write one sentence describing what you want a viewer to perceive.
+- What do you want an audience to experience?
+- What specific question do you need to test before committing to the idea?
 
-## 2. Demonstration: two tools, one cue
+Point to an existing study or experiment that led you here. It is fine to
+revise the direction after testing it.
 
-*10 minutes*
+## 2. Plan one small test
 
-Open [Strudel](https://strudel.cc/) and [Hydra](https://hydra.ojack.xyz/) in
-separate windows. Start a familiar sound pattern and load two saved visual
-states. Choose a recurring musical event and run the next Hydra state at that
-moment. Repeat the passage with a different cue and compare the effect.
+*5 minutes*
 
-Both systems keep running independently. This lesson uses a performer's cues;
-it does not require shared clocks, automatic audio reaction, or a network
-connection between the tools. Show how to restart each sketch and return to
-its opening state so the passage can be repeated.
+Turn your uncertainty into something you can try in 15 minutes. For example:
 
-## 3. Perform a short passage
+- **Sound:** can a variation in one pattern create the contrast you want?
+- **Visuals:** can two saved Hydra states communicate a clear change?
+- **Sound and image:** can a manually cued visual change make a musical event clearer?
+- **Ensemble:** can two performers repeat a handoff reliably?
+- **Interaction:** can one input produce one clear, repeatable response with tools you already know?
+- **Arduino or sensors:** can one available sensor or control change one output in the way you intend?
+- **Lighting:** can you code and repeat two contrasting lighting states with the equipment or software available?
+- **Physical installation:** can a small mockup test one part of the audience experience?
+
+Write what you will change and what would count as a useful result. Keep the
+test small enough to finish with the tools and equipment available today.
+For a hardware or lighting idea, bring what you have and identify missing
+components or interfaces. If the full setup is unavailable, test the control
+logic in software or make a mockup, and note what still needs a hardware test.
+
+## 3. Run the experiment
 
 *15 minutes*
 
-Work in pairs: one person controls sound and the other controls visuals.
-You can use two laptops, or two windows on one laptop.
+Reuse your code rather than starting a new system. Compare two versions or run
+the same passage twice. Save enough evidence to explain what you learned:
+code, a screenshot, a short recording, or a cue sheet.
 
-1. Reuse your saved code. Choose two or three musical and visual states.
-2. Write a small cue sheet: the event to listen for, the visual change, and
-   which person makes it. Agree on an opening cue and an ending cue.
-3. Rehearse a 60-second passage twice. Keep the second run recognizable while
-   leaving room for live choices.
-4. Swap roles. Adjust one transition that felt unclear or difficult to cue.
+For a sound-and-image test, open Strudel and Hydra in separate windows. Choose
+a musical event and manually run a saved visual state at that moment. Try a
+different cue and compare. If you work in a pair, agree who starts, changes,
+and stops each part, then swap roles if useful. Shared clocks, automatic audio
+reaction, and network connections are not required.
 
-For an independent project, practice both controls yourself or use a partner
-for this experiment. Your final project does not have to use both tools.
+For other directions, use the same approach: change one decision, compare the
+result, and note what becomes clearer or harder. Working with a partner today
+does not commit you to an ensemble final project.
 
-## 4. Test the relationship
+## 4. Get feedback on the idea and its scope
 
-*10 minutes*
+*8 minutes*
 
-Show the passage to another pair. Ask what they noticed before explaining your
-intention. Did they perceive the relationship you chose?
+Work with a partner. Take four minutes each to demonstrate your test, explain
+your intention, and discuss:
 
-Make one revision to the timing, visual parameter, or sound pattern. Repeat
-the passage and compare. Save both sets of code and the cue sheet; record a
-short excerpt if it will help you document the experiment.
+- What did your partner actually perceive?
+- What did the test establish, and what is still uncertain?
+- What could you remove while keeping the idea worthwhile?
 
-## 5. From experiment to proposal
+Save one observation that will affect your proposal. A failed experiment can
+help you choose a better direction or a simpler fallback.
 
-*10 minutes*
+## 5. Draft the proposal
 
-Decide whether this experiment belongs in your final project. Write:
+*12 minutes*
 
-- The artistic question or relationship you want to develop.
-- The smallest working version you can demonstrate by the November 6 prototype.
-- One technical uncertainty to test, such as cue timing, screen capture, or
-  controlling both tools alone.
+Use the [proposal checklist](/projects/proposal/#submit) to make a concise draft:
 
-Use these notes in the proposal. You may choose a sound-only, visual-only,
-audiovisual, interaction, or ensemble project according to your interests.
+- Your creative question and intended audience experience
+- Your ensemble role or independent-project direction
+- Tools, planned output, and boundaries, including what you will leave out
+- Equipment, interfaces, and space needs where relevant, including what you have and what you still need to arrange
+- Links to existing work and today's test, with what they taught you
+- Two references and the specific idea or technique you will draw from each
+- A small working version for the **November 6 prototype deadline**
+- Your main risk, next test, and a simpler fallback
+
+Outline the later work needed for rehearsal and final presentation. Use the
+[course schedule](/schedule/) for milestone dates. Link to work already
+submitted rather than packaging it again.
+
+## 6. Check feasibility and choose the next action
+
+*5 minutes*
+
+Share your proposed scope with your partner or the instructor. Check that the
+prototype demonstrates the central idea with the time and equipment available.
+
+Revise one part of the draft. Write the next action you will take before
+submitting on Friday. If something is unresolved, name the uncertainty and
+how you will test it.
 
 ## After class
 
-Save the runnable code and instructions for starting, cueing, and stopping the
-system. Credit the tutorials and examples you used. Submit the proposal through
-its existing assignment by **October 30 at 11:59 p.m. Central**.
+Complete the draft, verify that your links work, and add credits and disclosures
+for sources or assistance used. Submit through the existing Final Project
+Proposal assignment in D2L by **October 30 at 11:59 p.m. Central**.

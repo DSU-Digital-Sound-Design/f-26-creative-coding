@@ -2,9 +2,11 @@
 title: "Projects and checkpoints"
 ---
 
-The course has nine submissions: two creative studies, three practice checkpoints,
+The course has eight submissions: two creative studies, two practice checkpoints,
 three final-project milestones, and the final performance or independent project.
 Practice checkpoints collect work you are already doing between meetings.
+The final-project proposal brings together your experiments and your choice of
+project direction; there is no separate midsemester practice checkpoint.
 
 Submit code, media, and writing in D2L. D2L is the official source for deadlines,
 feedback, and grades. All times below are Central.
@@ -24,8 +26,7 @@ Points are counted within each weighted category. They are not percentages of th
 |---|---|---|
 | [Practice Checkpoint 1: First Experiments](/projects/practice-1/) | Sep 18, 11:59 pm | 20 |
 | [Creative Study 1](/projects/project-1/) | Sep 25, 11:59 pm | 50 |
-| [Creative Study 2](/projects/project-2/) | Oct 16, 11:59 pm | 50 |
-| [Practice Checkpoint 2: Studies and Pathway Decision](/projects/practice-2/) | Oct 23, 11:59 pm | 20 |
+| [Creative Study 2](/projects/project-2/) | Oct 19, start of class, 1:00 pm | 50 |
 | [Final Project Proposal](/projects/proposal/) | Oct 30, 11:59 pm | 20 |
 | [Prototype Milestone](/projects/prototype/) | Nov 6, 11:59 pm | 30 |
 | [Final Rehearsal and Documentation Packet](/projects/final-packet/) | Nov 30, 12:59 pm | 30 |

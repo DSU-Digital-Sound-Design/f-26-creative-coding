@@ -14,12 +14,34 @@ Category: **Final Performance or Independent Project**.
 
 Present the completed creative work and submit the files needed to understand and reproduce it.
 
+## Project options
+
+You may contribute to an ensemble or complete an independent project involving
+**code and creativity**. Independent work can include screen-based art, music,
+animation, experimental games, Arduino or sensor-based objects, programmable
+DMX lighting, movement, or installations. Other creative uses of code are
+welcome, including tools beyond Strudel and Hydra. Develop the direction and
+scope established in your [proposal](/projects/proposal/) and discuss substantial
+changes as the project develops.
+
+Present the work in a form that suits it: a performance, an interactive
+demonstration, an installation, or a presentation of a finished piece. Make
+clear what the code does and how your choices create the intended experience.
+The grading criteria below apply across these different forms.
+
 ## Submit
 
-- Complete, runnable code and project files
-- Final documentation and full credits
-- A recording or screen capture when the live presentation is not itself the complete record
+- Complete, runnable code and project files, including required assets and configuration files
+- Setup and run instructions, dependencies, and full credits
+- For physical or lighting projects: an equipment list and a wiring, connection, or signal-flow diagram. Include relevant pin assignments, DMX addresses or channel mappings, calibration, and start/stop instructions as needed for your system.
+- Documentation suited to the work: a screen capture for screen-based work, or photographs and video showing the behavior and audience interaction of a physical project. Include a recording when the live presentation is not itself the complete record.
 - A 400 to 600 word critical reflection on goals, process, failures, revisions, and results
+
+You do not need to submit physical equipment through D2L. Submit the files
+and documentation needed to understand the build, and identify any equipment
+needed to run it. Document an installation's layout or a performance's cues
+when those are part of the work. The [rehearsal and documentation packet](/projects/final-packet/)
+will help you prepare these materials.
 
 ## Grading
 

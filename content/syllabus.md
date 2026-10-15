@@ -254,7 +254,7 @@ unless an alternative is approved in advance.
 ## Course schedule and assignments
 
 See the [course schedule](/schedule/) for the working plan and
-[projects and checkpoints](/projects/) for all nine assignment briefs, deadlines,
+[projects and checkpoints](/projects/) for all eight assignment briefs, deadlines,
 and grading criteria. D2L remains the official source for current arrangements,
 deadlines, feedback, and grades.
 

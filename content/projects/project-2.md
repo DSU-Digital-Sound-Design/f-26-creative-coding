@@ -2,15 +2,15 @@
 title: "Creative Study 2"
 number: "02"
 weight: 3
-week: 8
-due: "2026-10-16"
+week: 9
+due: "2026-10-19"
 summary: "Develop a short Hydra visual study with contrasting states and changes made by editing the code."
 rubric: false
 ---
 
 Category: **Creative-Coding Studies**.
 
-**Due:** October 16, 2026 at 11:59 PM Central
+**Due:** Monday, October 19, 2026 at the start of class, 1:00 PM Central
 
 Make a **60–90 second visual study in Hydra** with one clear visual idea.
 Start with the October 5 [First visuals études](/etudes/week-06/).
@@ -37,8 +37,9 @@ This is a visual study; sound is not required.
 
 There is no class meeting on **October 12, Native American Day**. Use the gap
 between October 5 and the deadline to develop, test, and record your study.
-We will share the finished work and discuss project directions in class on
-**October 19**.
+Bring your finished study to class on **October 19**, ready to share. We will
+experience the studies together, discuss your choices, and explore future
+directions for your work, including ensemble and independent-project options.
 
 ## Submit
 

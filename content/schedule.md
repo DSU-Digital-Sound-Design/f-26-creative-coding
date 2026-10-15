@@ -64,20 +64,20 @@ semester calendar beginning August 24; our first meeting was August 31.
 - [off] No Monday meeting because of Native American Day. Independent development for Creative Study 2; the in-class critique is October 19.
 ### homework
 - [etude] [Independent Hydra study](/etudes/week-06/#independent-study-for-the-october-12-week) — about 45 minutes during the week: compare three parameter values, rehearse your visual sequence, and get feedback. Optional further exploration uses the Hydra function reference. No separate submission or work session on the holiday.
-- Finish Creative Study 2 and submit its code, capture, reflection, and credits by Friday.
-- [due] [Creative Study 2](/projects/project-2/) due 10/16 at 11:59 pm Central.
+- Finish Creative Study 2 for our October 19 class. Submit its code, capture, reflection, and credits by the start of class, and be ready to share your study.
 
 ## 10/19
 
-- [lab] Pathway and project direction. Critique Study 2, identify artistic precedents, and confirm an ensemble role or independent-project pathway.
+- [due] [Creative Study 2](/projects/project-2/) due today at the start of class, 1:00 pm Central.
+- [lab] Share your Creative Study 2 with the class. We will experience the studies together, discuss your choices, and offer feedback.
+- Discuss future directions for your work, including ideas you want to develop and possibilities for ensemble or independent projects.
 ### homework
-- Submit Practice Checkpoint 2 by Friday.
-- [due] [Practice Checkpoint 2: Studies and Pathway Decision](/projects/practice-2/) due 10/23 at 11:59 pm Central.
+- Begin your [Final Project Proposal](/projects/proposal/), due October 30. For next class, bring a possible direction, links to your experiments, and two artistic or technical references you might draw on.
 
 ## 10/26
 
-- [etude] [Sound and image together](/etudes/week-09/). Combine a saved Strudel pattern with Hydra states using manual cues, test a relationship, and revise it.
-- [lab] From experiment to proposal. Use the last 10 minutes to turn a promising experiment into a focused question and realistic project scope.
+- [etude] [Project experiments and proposal workshop](/etudes/week-09/). Test one uncertainty in your chosen creative-coding direction, which could involve sound, visuals, interaction, physical computing, lighting, or ensemble work. Reuse your saved code and compare results.
+- [lab] Share the experiment for feedback, then draft your proposal: question, tools, scope, supporting work, references, prototype plan, risks, and fallback. Review the scope together and choose your next action.
 ### homework
 - Submit the Final Project Proposal by Friday.
 - [due] [Final Project Proposal](/projects/proposal/) due 10/30 at 11:59 pm Central.

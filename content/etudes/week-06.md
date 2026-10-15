@@ -106,8 +106,8 @@ Before leaving, save your Hydra code and one sentence naming the visual idea
 you want to explore. Check that you can reopen the sketch.
 
 There is **no class meeting on October 12 because of Native American Day**.
-Use the gap to develop Creative Study 2, due **Friday, October 16 at 11:59 p.m.
-Central**:
+Use the gap to develop Creative Study 2, due **Monday, October 19 at the start
+of class, 1:00 p.m. Central**:
 
 - By the end of this week, build a rough 60–90 second study with two or three
   contrasting states. Develop one clear visual idea.
@@ -118,7 +118,8 @@ Central**:
 
 These studies and the rough version are practice material, not extra graded
 submissions. Use the techniques from this lesson to develop the visual study.
-We'll share finished studies and discuss project directions on **October 19**.
+Bring your finished study ready to share on **October 19**. We'll experience
+the work together and discuss future directions for your projects.
 
 ## Independent study for the October 12 week
 
