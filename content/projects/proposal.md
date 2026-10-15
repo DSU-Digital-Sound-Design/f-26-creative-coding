@@ -38,7 +38,8 @@ need, what you already have access to, and what you still need to arrange.
 
 ## Find inspiration
 
-- [CreativeApplications.Net](https://www.creativeapplications.net/) features work connecting art and technology, including sound, light, physical installations, and interactive objects.
+- [Hackaday's Art section](https://hackaday.com/category/art/) is a free source of inspiration for creative electronics, programmable lighting, interactive objects, and kinetic sculptures. Articles often link to demonstrations and build details.
+- [CreativeApplications.Net](https://www.creativeapplications.net/) is another great source for work connecting art and technology, including sound, light, physical installations, and interactive objects. Free access is limited to a few projects; further browsing requires a subscription. You do not need a subscription for this course. Use Hackaday and the other free resources here to find references.
 - [Hello, p5.js!](https://hello.p5js.org/) is an interactive introduction with demonstrations of animation, audio, and interaction.
 - The [p5.js examples collection](https://p5js.org/examples/) has small projects you can run and inspect, including drawing tools, generative poetry, games, and simulations.
 
